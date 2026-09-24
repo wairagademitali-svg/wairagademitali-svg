@@ -25,9 +25,6 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wairagademitali-svg)
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge)
-
 </div>
 
 ---
