@@ -173,14 +173,17 @@ Hi 👋 I'm **Mitali Wairagade**, an **AI Engineer and Python Developer** passio
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
 <div align="center">
 
-[![Mitali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wairagademitali-svg&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/wairagademitali-svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wairagademitali-svg&theme=tokyonight&hide_border=true)
+
+<br><br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wairagademitali-svg&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 # 🎯 Currently Learning
