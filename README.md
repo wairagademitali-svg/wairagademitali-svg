@@ -218,11 +218,11 @@ Hi 👋 I'm **Mitali Wairagade**, an **AI Engineer and Python Developer** passio
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitali-wairagade)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Send_Me_A_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-Send_Me_A_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wairagademitali@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wairagademitali-svg)
 
 <br>
 
