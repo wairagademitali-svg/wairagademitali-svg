@@ -177,7 +177,7 @@ Hi 👋 I'm **Mitali Wairagade**, an **AI Engineer and Python Developer** passio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+[![Mitali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wairagademitali-svg&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/wairagademitali-svg)
 
 </div>
 
